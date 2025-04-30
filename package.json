@@ -3,7 +3,7 @@
 	"author": "Markiyan Kits",
 	"description": "A Node.js learning project using package.json for freeCodeCamp exercises.",
 	"keywords": [ "node", "express", "freecodecamp", "project" ],
-	
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
