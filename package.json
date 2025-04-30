@@ -4,6 +4,7 @@
 	"description": "A Node.js learning project using package.json for freeCodeCamp exercises.",
 	"keywords": [ "node", "express", "freecodecamp", "project" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
